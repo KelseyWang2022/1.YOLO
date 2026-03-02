@@ -1,0 +1,22 @@
+# PyCharm
+.idea/
+
+# virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+logs/
+*.log
+
+# large model files (如果有)
+*.pt
+*.pth
+*.onnx
